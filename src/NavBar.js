@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-scroll';
-import AOS from 'aos';
 const NavBar = props => {
     const topnavStyle = {
         top: '0',

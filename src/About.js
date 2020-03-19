@@ -6,7 +6,7 @@ const About = props => {
             <section className="about" id="about">
                 <div className="container">
                     <div className="profile-img" data-aos="fade-right" data-aos-delay="300">
-                        <img src="/assets/ProfilePic.jpg" alt="Profile Pic"/>
+                        <img src="https://i.ibb.co/CnLdS45/Profile-Pic.jpg" alt="Profile Pic"/>
                     </div>
                     <div className="about-details" data-aos="fade-left" data-aos-delay="500">
                         <div className="about-heading">

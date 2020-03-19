@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Link, DirectLink, Element, Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll';
+import { Element, animateScroll as scroll } from 'react-scroll';
 import MenuToggler from './MenuToggler';
 import NavBar from './NavBar';
 import About from './About';

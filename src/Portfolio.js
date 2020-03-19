@@ -11,7 +11,7 @@ const Portfolio = props => {
                     </div>
                     <div className="portfolio-item">
                         <div className="portfolio-img has-margin-right" data-aos="fade-right" data-aos-delay="300">
-                            <img src="/assets/Gamehub.jpg" alt="Game Hub"/>
+                            <img src="https://i.ibb.co/Kh50XBS/Gamehub.png" alt="Game Hub"/>
                         </div>
                         <div className="portfolio-description" data-aos="fade-left" data-aos-delay="600">
                             <h6>Web Development</h6>
@@ -35,12 +35,12 @@ const Portfolio = props => {
                             <a href="https://github.com/arif-banai/TruWalks" className="cta">View Details</a>
                         </div>
                         <div className="portfolio-img" data-aos="fade-left" data-aos-delay="1200">
-                            <img src="/assets/TruWalks.jpg" />
+                            <img src="https://i.ibb.co/Bj7t6W2/TruWalks.png" alt="TruWalks"/>
                         </div>
                     </div>
                     <div className="portfolio-item">
                         <div className="portfolio-img has-margin-right" data-aos="fade-right" data-aos-delay="1500">
-                            <img src="/assets/SoundOfMind.jpg"/>
+                            <img src="https://i.ibb.co/Zf7MCP9/Sound-Of-Mind.jpg" alt="Sound Of Mind"/>
                         </div>
                         <div className="portfolio-description" data-aos="fade-left" data-aos-delay="1800">
                             <h6>Mobile Design</h6>
