@@ -28,7 +28,8 @@ const Services = props => {
                             <h1>Web Development</h1>
                             <p>
                                 Backend routes are no big deal for me. I have experience connecting to databases and parsing information from them
-                                as well as using my favorite framework React.js in implementing components for the data obtained.
+                                as well as using my favorite framework React.js in implementing components for the data obtained. I have worked with Redux
+                                for large scale applications with caching data for reuse.
                             </p>
                         </div>
                         <div className="skill" data-aos="fade-in" data-aos-delay="900">
@@ -37,8 +38,8 @@ const Services = props => {
                             </div>
                             <h1>Data Analytics</h1>
                             <p>
-                                Using dataframes in python, I have learned how to filter outliers and what to do in cases where there could be skews in the data
-                                where the kurtosis could either be mesokurtic, leptokurtic, or platykurtic.
+                                Using dataframes in python, I have learned how to filter outliers and build Linear Regression or Decision Tree models to 
+                                predict based on information, what the likelyhood of an input would result in a certain output.
                             </p>
                         </div>
                     </div>
