@@ -171,6 +171,7 @@ input[type="submit"]:hover {
 .nav-link:focus {
   background: linear-gradient(to top, #ffe838, #fd57bf);
   cursor: pointer;
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -225,6 +226,7 @@ input[type="submit"]:hover {
   font-size: 20rem;
   font-family: "The Historia Demo", sans-serif;
   background: linear-gradient(to top, #ffe838, #fd57bf);
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   padding: 1rem;
